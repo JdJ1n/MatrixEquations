@@ -1,7 +1,6 @@
 ﻿//PIF1006-TP2-Program.cs
 //MEMBRES DE L'ÉQUIPE NO 3
 //Jiadong Jin JINJ86100000
-//Yujie Lu LUXY16089900
 using System;
 using System.IO;
 using System.Linq;
